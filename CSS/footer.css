@@ -1,0 +1,21 @@
+footer{
+    background-color: black;
+    color: #fff;
+    height: 30vh;
+}
+
+.cont_footer{
+    text-align: center;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+.link{
+    color: white;
+    font-size: 2rem;
+    padding: 5px;
+    border: 1px solid red;
+    border-radius: 2px;
+}

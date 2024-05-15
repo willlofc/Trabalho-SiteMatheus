@@ -1,0 +1,23 @@
+@import url('header.css');
+@import url('banner.css');
+@import url('conteudo.css');
+@import url('footer.css');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+main{
+    margin: auto;
+    width: 1200px;
+}

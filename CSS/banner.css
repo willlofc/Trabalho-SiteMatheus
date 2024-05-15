@@ -1,0 +1,31 @@
+.banner{
+    background-image: url(../Conteudo/street14.jfif);
+    background-repeat: no-repeat;
+    height: 90vh;
+    padding-top: 400px;
+    
+}
+.img_banner{
+    height: 90vh;
+    width: 100%;
+}
+
+.img_banner img{
+    height: 100%;
+    width: 100%;
+}
+
+.titulo{
+    font-size: 2rem;
+    margin: auto;
+    text-align: center;
+    height: 30px;
+    width: 500px;
+}
+
+.link1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
